@@ -1,0 +1,5 @@
+mkdir lab6 & cd lab6
+1.bat
+mkdir TEST & xcopy /y *.* TEST\*.*
+copy *.*+*.* info.txt
+del *.bat free-mem.txt OS.txt used-mem.txt mem.txt

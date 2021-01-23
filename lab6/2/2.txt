@@ -1,0 +1,11 @@
+%computername%
+
+net share temp="C:\%computername%\Temp"
+schtasks /Create /SC once /TN Task2 /TR 2.bat /ST 17:09
+schtasks /Query | find "Task2"
+tasklist
+taskkill /IM 2.bat
+fc C:\Windows\*.* C:\%computername%\temp\*.* > diff.txt
+type diff.txt
+
+2.bat

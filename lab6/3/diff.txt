@@ -1,0 +1,74 @@
+Comparing files scan_1.txt and SCAN_2.TXT
+***** scan_1.txt
+
+   Background Intelligent Transfer Service
+***** SCAN_2.TXT
+
+   Application Experience
+   Background Intelligent Transfer Service
+*****
+
+***** scan_1.txt
+   COM+ Event System
+   Computer Browser
+   Cryptographic Services
+***** SCAN_2.TXT
+   COM+ Event System
+   Credential Manager
+   Cryptographic Services
+*****
+
+***** scan_1.txt
+   Diagnostic Service Host
+   Diagnostic System Host
+   Diagnostics Tracking Service
+***** SCAN_2.TXT
+   Diagnostic Service Host
+   Diagnostics Tracking Service
+*****
+
+***** scan_1.txt
+   Distributed Link Tracking Client
+   DNS Client
+   Function Discovery Resource Publication
+***** SCAN_2.TXT
+   Distributed Link Tracking Client
+   Function Discovery Resource Publication
+*****
+
+***** scan_1.txt
+   IPsec Policy Agent
+   Multimedia Class Scheduler
+   Network Connections
+***** SCAN_2.TXT
+   IPsec Policy Agent
+   Network Connections
+*****
+
+***** scan_1.txt
+   Print Spooler
+   Remote Procedure Call (RPC)
+***** SCAN_2.TXT
+   Print Spooler
+   Program Compatibility Assistant Service
+   Remote Procedure Call (RPC)
+*****
+
+***** scan_1.txt
+   Windows Defender
+   Windows Event Log
+***** SCAN_2.TXT
+   Windows Defender
+   Windows Driver Foundation - User-mode Driver Framework
+   Windows Event Log
+*****
+
+***** scan_1.txt
+   Windows Management Instrumentation
+   Windows Search
+***** SCAN_2.TXT
+   Windows Management Instrumentation
+   Windows Modules Installer
+   Windows Search
+*****
+
